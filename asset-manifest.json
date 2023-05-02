@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7b099ef.css",
-    "main.js": "/static/js/main.f3a3b701.js",
-    "static/js/787.c3864358.chunk.js": "/static/js/787.c3864358.chunk.js",
-    "index.html": "/index.html",
-    "main.c7b099ef.css.map": "/static/css/main.c7b099ef.css.map",
-    "main.f3a3b701.js.map": "/static/js/main.f3a3b701.js.map",
-    "787.c3864358.chunk.js.map": "/static/js/787.c3864358.chunk.js.map"
+    "main.css": "/account_robocube/static/css/main.c7b099ef.css",
+    "main.js": "/account_robocube/static/js/main.f2865b06.js",
+    "static/js/787.c3864358.chunk.js": "/account_robocube/static/js/787.c3864358.chunk.js",
+    "index.html": "/account_robocube/index.html",
+    "main.c7b099ef.css.map": "/account_robocube/static/css/main.c7b099ef.css.map",
+    "main.f2865b06.js.map": "/account_robocube/static/js/main.f2865b06.js.map",
+    "787.c3864358.chunk.js.map": "/account_robocube/static/js/787.c3864358.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7b099ef.css",
-    "static/js/main.f3a3b701.js"
+    "static/js/main.f2865b06.js"
   ]
 }
