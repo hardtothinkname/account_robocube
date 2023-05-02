@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/account_robocube/static/css/main.c7b099ef.css",
-    "main.js": "/account_robocube/static/js/main.862bf15d.js",
+    "main.js": "/account_robocube/static/js/main.f2865b06.js",
     "static/js/787.c3864358.chunk.js": "/account_robocube/static/js/787.c3864358.chunk.js",
     "index.html": "/account_robocube/index.html",
     "main.c7b099ef.css.map": "/account_robocube/static/css/main.c7b099ef.css.map",
-    "main.862bf15d.js.map": "/account_robocube/static/js/main.862bf15d.js.map",
+    "main.f2865b06.js.map": "/account_robocube/static/js/main.f2865b06.js.map",
     "787.c3864358.chunk.js.map": "/account_robocube/static/js/787.c3864358.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7b099ef.css",
-    "static/js/main.862bf15d.js"
+    "static/js/main.f2865b06.js"
   ]
 }
